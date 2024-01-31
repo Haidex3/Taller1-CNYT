@@ -43,4 +43,3 @@ def fase(c1):
     sa = c1[1] / c1[0]
     sb = math.atan(sa)
     return sb
-
